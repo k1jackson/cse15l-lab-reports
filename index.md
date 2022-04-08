@@ -11,7 +11,7 @@
 2. two
 3. three
 
-![Image](https://k1jackson.github.io/img.png)
+![Image](https://k1jackson.github.io/cse15l-lab-reports/img.png)
 
 > blockquote
 
