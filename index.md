@@ -1,5 +1,12 @@
 # Heading 1
-## Heading 2
+## Links to Lab Reports
+
+[Lab Report 1](lab-report-1-week-2.html)
+
+[Lab Report 1](https://k1jackson.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
+
+
 *italic*
 **bold**
 [link](https://commonmark.org/help/)
