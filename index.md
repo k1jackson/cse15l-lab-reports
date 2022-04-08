@@ -11,4 +11,10 @@
 2. two
 3. three
 
-Hello World!
+> blockquote
+---
+'''
+block 
+of code
+'''
+Hello World! 'inline code'
