@@ -8,9 +8,9 @@ After opening VScode, this was the result:
 ![VScode](VScode.png)
 
 ## Remotely Connecting
-Next, I used the [UCSD Tech Services Website](https://sdacs.ucsd.edu/~icc/index.php) to loopup my account name for CSE 15L.
+Next, I used the [UCSD Tech Services Website](https://sdacs.ucsd.edu/~icc/index.php) to lookup my account name for CSE 15L.
 
-Then I opened a new terminal in VScode an used a secure shell to remotely access the ieng6 server (Note: I needed to reset my account password for this to work). To do this, I entered into the terminal:
+Then I opened a new terminal in VScode and used a secure shell to remotely access the ieng6 server (Note: I needed to reset my account password for this to work). To do this, I entered into the terminal:
 ```
 $ ssh cse14lspacr@ieng6.ucsd.edu
 ```
