@@ -79,4 +79,5 @@ Using the methods and changes described above, I was able to optimize the proces
 After editing WhereAmI.java, this edit can be copied to the server, compiled, and run six keystrokes. I used the up-arrow twice to recall the first command and pressed enter to copy the updated WhereAmI.java onto the server. Then I again used the up-arrow twice to recall the second command and pressed enter to compile and run the updated WhereAmI.java on the server.
 
 This was the result:
+
 ![edit](edit.PNG)
