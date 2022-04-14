@@ -27,7 +27,7 @@ Next, I tried entering the following unix commands in the terminal:
 
 This was the result:
 
-![cmds](cmds.png)
+![cmds](cmds.PNG)
 
 ## Moving Files with `scp`
 Next, I created a java file on my computer called WhereAmI.java which outputs the name of the operating system, name of the user, user home, and user directory.
