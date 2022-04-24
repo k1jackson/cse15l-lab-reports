@@ -4,6 +4,7 @@
 **Code Change:**
 
 ![codeChange](change1.PNG)
+
 **Failure-Inducing Input:** [Test File](https://raw.githubusercontent.com/k1jackson/markdown-parser/main/test-file-img.md)
 
 **Failure-Inducing Output:** ```[https://something.com, image.PNG]```
@@ -14,6 +15,7 @@
 **Code Change:**
 
 ![codeChange](change2.PNG)
+
 **Failure-Inducing Input:** [Test File](https://raw.githubusercontent.com/k1jackson/markdown-parser/main/test-file-paren.md)
 
 **Failure-Inducing Output:** ```Exception in thread "main" java.lang.StringIndexOutOfBoundsException```
@@ -24,6 +26,7 @@
 **Code Change:**
 
 ![codeChange](change3.PNG)
+
 **Failure-Inducing Input:** [Test File](https://raw.githubusercontent.com/k1jackson/markdown-parser/main/test-file-paren-link.md)
 
 **Failure-Inducing Output:** Infinite loop (no output)
