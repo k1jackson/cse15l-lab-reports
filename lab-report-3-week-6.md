@@ -33,3 +33,24 @@
 **Link to commit:** [Commit Link](https://github.com/k1jackson/markdown-parser/commit/9427ce3d18c52565426fb536eca6e98d3dd75296)
 
 ## Copy Whole Directories with `scp -r`
+**Description:** In this activity I used `scp -r` to copy nested directories containing multiple files onto the ieng6 server. I also copied and ran MarkdownParseTest.java in a single command.
+
+**Copy markdown-parse directory to ieng6:**
+
+![copyMP1](copyMP1.PNG)
+![copyMP2](copyMP2.PNG)
+![copyMP3](copyMP3.PNG)
+![copyMP4](copyMP4.PNG)
+
+**Login to ieng6 and compile / run tests:**
+
+![testMP](testMP.PNG)
+
+**Combine `scp`, `;`, and `ssh`:**
+
+![cwd1](cwd1.PNG)
+![cwd2](cwd2.PNG)
+![cwd3](cwd3.PNG)
+![cwd4](cwd4.PNG)
+![cwd5](cwd5.PNG)
+![cwd6](cwd6.PNG)
