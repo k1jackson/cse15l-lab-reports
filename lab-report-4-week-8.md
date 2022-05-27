@@ -3,7 +3,7 @@
 ## Repository Links
 
 **My Repository:** [markdown-parser](https://github.com/k1jackson/markdown-parser) \
-**Lab 7 Repository:** [markdown-parser](https://github.com/nidhidhamnani/markdown-parser)
+**Lab 7 Repository:** [markdown-parser](https://github.com/lithicarus/markdown-parser)
 
 ## Snippet 1 
 
